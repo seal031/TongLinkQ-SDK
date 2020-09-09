@@ -15,9 +15,9 @@ namespace TongLinkQ_SDK
         {
             return new TlqSendMsgApiImpl();
         }
-        public static TlqSendRequestApi createSendRequestClient()
-        {
-            return new TlqSendRequestApiImpl();
-        }
+        //public static TlqSendRequestApi createSendRequestClient()
+        //{
+        //    return new TlqSendRequestApiImpl();
+        //}
     }
 }
