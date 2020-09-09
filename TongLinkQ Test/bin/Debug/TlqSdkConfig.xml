@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <add tlq_hostname="172.26.77.67"/>
+  <add tlq_listenport="10261"/>
+  <add tlq_login_context="http://172.26.77.78:8181"/>
+</config>

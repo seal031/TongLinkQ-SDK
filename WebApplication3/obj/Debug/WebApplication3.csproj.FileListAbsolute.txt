@@ -1,0 +1,182 @@
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\roslyn\csc.exe
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\roslyn\System.Collections.Immutable.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\roslyn\System.Reflection.Metadata.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\roslyn\vbc.exe
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\roslyn\VBCSCompiler.exe
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\roslyn\VBCSCompiler.exe.config
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\WebApplication3.dll.config
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\WebApplication3.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\WebApplication3.pdb
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Antlr3.Runtime.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\EntityFramework.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\EntityFramework.SqlServer.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.Google.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Microsoft.Web.Infrastructure.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Newtonsoft.Json.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Owin.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\System.Web.Helpers.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\System.Web.Mvc.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\System.Web.Optimization.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\System.Web.Razor.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\System.Web.WebPages.Deployment.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\System.Web.WebPages.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\System.Web.WebPages.Razor.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\WebGrease.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\System.Web.Helpers.xml
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\System.Web.Mvc.xml
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\System.Web.Optimization.xml
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\System.Web.Razor.xml
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\System.Web.WebPages.xml
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\System.Web.WebPages.Deployment.xml
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\System.Web.WebPages.Razor.xml
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Antlr3.Runtime.pdb
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Newtonsoft.Json.xml
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\EntityFramework.xml
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\EntityFramework.SqlServer.xml
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.xml
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.xml
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.Google.xml
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\zh-Hans\EntityFramework.resources.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\obj\Debug\WebApplication3.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\obj\Debug\WebApplication3.pdb
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\TongLinkQ SDK.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\tl_tcapicsharp.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\bin\TongLinkQ SDK.pdb
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\WebApplication3\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\roslyn\csc.exe
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\roslyn\System.Collections.Immutable.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\roslyn\System.Reflection.Metadata.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\roslyn\vbc.exe
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\roslyn\VBCSCompiler.exe
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\roslyn\VBCSCompiler.exe.config
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\WebApplication3.dll.config
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\WebApplication3.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\WebApplication3.pdb
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Antlr3.Runtime.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\EntityFramework.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\EntityFramework.SqlServer.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Microsoft.AspNet.Identity.Core.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.Cookies.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.Facebook.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.Google.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.OAuth.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.Twitter.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Microsoft.Web.Infrastructure.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Newtonsoft.Json.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Owin.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\System.Web.Helpers.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\System.Web.Mvc.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\System.Web.Optimization.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\System.Web.Razor.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\System.Web.WebPages.Deployment.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\System.Web.WebPages.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\System.Web.WebPages.Razor.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\TongLinkQ SDK.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\WebGrease.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\tl_tcapicsharp.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\System.Web.Helpers.xml
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\System.Web.Mvc.xml
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\System.Web.Optimization.xml
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\System.Web.Razor.xml
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\System.Web.WebPages.xml
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\System.Web.WebPages.Deployment.xml
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\System.Web.WebPages.Razor.xml
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\TongLinkQ SDK.pdb
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Antlr3.Runtime.pdb
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Newtonsoft.Json.xml
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\EntityFramework.xml
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\EntityFramework.SqlServer.xml
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Microsoft.AspNet.Identity.Core.xml
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.xml
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.xml
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.Facebook.xml
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.Cookies.xml
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.OAuth.xml
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.Google.xml
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.Twitter.xml
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\zh-Hans\EntityFramework.resources.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\obj\Debug\WebApplication3.dll
+E:\GitHubProject\TongLinkQ SDK\WebApplication3\obj\Debug\WebApplication3.pdb

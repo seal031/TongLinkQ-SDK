@@ -1,0 +1,305 @@
+E:[0730 16:50:05.975]:[938976,925888]:[tlq_tc_tran.c:554]:[54, 10060]:trans_connect: connect failed [119.57.115.57] [11261]
+E:[0730 16:50:05.982]:[938976,925888]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(119.57.115.57,11261)
+E:[0910 16:59:58.430]:[15576,22076]:[tlq_tc_tran.c:554]:[54, 10049]:trans_connect: connect failed [] [0]
+E:[0910 16:59:58.430]:[15576,22076]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(,0)
+E:[0910 17:00:01.512]:[15576,22076]:[tlq_tc_tran.c:554]:[54, 10049]:trans_connect: connect failed [] [0]
+E:[0910 17:00:01.513]:[15576,22076]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(,0)
+E:[0910 18:25:27.195]:[20824,19712]:[tlq_tc_tran.c:554]:[54, 10049]:trans_connect: connect failed [] [0]
+E:[0910 18:25:27.196]:[20824,19712]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(,0)
+E:[0910 18:25:30.260]:[20824,19712]:[tlq_tc_tran.c:554]:[54, 10049]:trans_connect: connect failed [] [0]
+E:[0910 18:25:30.261]:[20824,19712]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(,0)
+E:[0910 18:28:04.071]:[948,16660]:[tlq_tc_tran.c:554]:[54, 10049]:trans_connect: connect failed [] [0]
+E:[0910 18:28:04.072]:[948,16660]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(,0)
+E:[0910 18:28:07.171]:[948,16660]:[tlq_tc_tran.c:554]:[54, 10049]:trans_connect: connect failed [] [0]
+E:[0910 18:28:07.171]:[948,16660]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(,0)
+E:[1008 14:39:56.506]:[16492,21472]:[tlq_tc_tran.c:554]:[54, 10060]:trans_connect: connect failed [192.168.3.214] [10250]
+E:[1008 14:39:56.514]:[16492,21472]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(192.168.3.214,10250)
+E:[1008 14:40:41.158]:[26880,14828]:[tlq_tc_tran.c:554]:[54, 10061]:trans_connect: connect failed [192.168.3.196] [10250]
+E:[1008 14:40:41.159]:[26880,14828]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(192.168.3.196,10250)
+E:[1008 14:45:36.625]:[22536,21732]:[tlq_tc_tran.c:554]:[54, 10061]:trans_connect: connect failed [192.168.3.196] [10000]
+E:[1008 14:45:36.626]:[22536,21732]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(192.168.3.196,10000)
+E:[1008 14:48:53.014]:[26780,26560]:[tlq_tc_tran.c:2254]:[59, 0]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=-2,ReplyTmout=20,pTrans->socket=2156
+E:[1008 14:48:53.014]:[26780,26560]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=2156
+E:[1008 14:48:53.015]:[26780,26560]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=2156
+E:[1008 14:48:53.015]:[26780,26560]:[tlq_tc_tran.c:810]:[1000, -1]:trans_recv_tlqconn: some system error occured while receiving reply packet from agent
+E:[1008 14:49:54.008]:[17244,14332]:[tlq_tc_tran.c:2254]:[59, 0]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=0,ReplyTmout=20,pTrans->socket=712
+E:[1008 14:49:54.008]:[17244,14332]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=712
+E:[1008 14:49:54.009]:[17244,14332]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=712
+E:[1008 14:49:54.009]:[17244,14332]:[tlq_tc_tran.c:810]:[1000, -1]:trans_recv_tlqconn: some system error occured while receiving reply packet from agent
+E:[1008 15:18:46.006]:[13816,20396]:[tlq_tc_tran.c:2254]:[59, 0]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=0,ReplyTmout=20,pTrans->socket=2140
+E:[1008 15:18:46.006]:[13816,20396]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=2140
+E:[1008 15:18:46.007]:[13816,20396]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=2140
+E:[1008 15:18:46.007]:[13816,20396]:[tlq_tc_tran.c:810]:[1000, -1]:trans_recv_tlqconn: some system error occured while receiving reply packet from agent
+E:[1008 15:20:50.009]:[26460,27244]:[tlq_tc_tran.c:2254]:[59, 0]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=0,ReplyTmout=20,pTrans->socket=2200
+E:[1008 15:20:50.010]:[26460,27244]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=2200
+E:[1008 15:20:50.010]:[26460,27244]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=2200
+E:[1008 15:20:50.011]:[26460,27244]:[tlq_tc_tran.c:810]:[1000, -1]:trans_recv_tlqconn: some system error occured while receiving reply packet from agent
+E:[1008 15:32:49.002]:[27188,13008]:[tlq_tc_tran.c:2254]:[59, 0]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=0,ReplyTmout=20,pTrans->socket=2180
+E:[1008 15:32:49.003]:[27188,13008]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=2180
+E:[1008 15:32:49.003]:[27188,13008]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=2180
+E:[1008 15:32:49.004]:[27188,13008]:[tlq_tc_tran.c:810]:[1000, -1]:trans_recv_tlqconn: some system error occured while receiving reply packet from agent
+E:[1009 14:07:52.580]:[26512,30020]:[tlq_tc_help.c:1511]:[1002, -1]:tlq_getmsg:QueName is error!
+E:[1009 14:09:21.829]:[29864,30204]:[tlq_tc_help.c:1511]:[1002, -1]:tlq_getmsg:QueName is error!
+E:[1009 14:10:01.580]:[13424,25176]:[tlq_tc_help.c:1511]:[1002, -1]:tlq_getmsg:QueName is error!
+E:[1009 15:43:25.884]:[9480,11244]:[tlq_tc_tran.c:554]:[54, 10060]:trans_connect: connect failed [192.168.3.222] [10261]
+E:[1009 15:43:25.885]:[9480,11244]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(192.168.3.222,10261)
+E:[1009 16:27:05.800]:[30160,29424]:[tlq_tc_tran.c:554]:[54, 10061]:trans_connect: connect failed [192.168.3.222] [10261]
+E:[1009 16:27:05.801]:[30160,29424]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(192.168.3.222,10261)
+E:[1014 10:42:19.563]:[27692,13448]:[tlq_tc_tran.c:2254]:[59, 10053]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=-3,ReplyTmout=20,pTrans->socket=2260
+E:[1014 10:42:19.587]:[27692,13448]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=2260
+E:[1014 10:42:19.588]:[27692,13448]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=2260
+E:[1014 10:42:19.588]:[27692,13448]:[tlq_tc_tran.c:1016]:[1000, -1]:tlq_putmsg: some system error occured while receiving reply packet from agent,pTrans->socket=-1 result = -1
+E:[1014 10:59:22.228]:[29236,20600]:[tlq_tc_tran.c:2254]:[59, 10053]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=-3,ReplyTmout=20,pTrans->socket=2292
+E:[1014 10:59:22.229]:[29236,20600]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=2292
+E:[1014 10:59:22.229]:[29236,20600]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=2292
+E:[1014 10:59:22.230]:[29236,20600]:[tlq_tc_tran.c:1016]:[1000, -1]:tlq_putmsg: some system error occured while receiving reply packet from agent,pTrans->socket=-1 result = -1
+E:[1014 11:02:15.486]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:02:18.488]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:02:21.489]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:02:24.491]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:02:28.110]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:02:31.112]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:02:34.113]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:02:37.115]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:02:38.174]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:02:41.176]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:02:44.178]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:02:47.180]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:02:48.230]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:02:51.231]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:02:54.233]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:02:57.234]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:02:58.286]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:03:01.288]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:03:04.290]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:03:07.293]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:03:08.362]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:03:11.364]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:03:14.366]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:03:17.369]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:03:18.459]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:03:21.462]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:03:24.463]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:03:27.465]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:03:28.516]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:03:31.518]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:03:34.520]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:03:37.521]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1014 11:03:38.573]:[29236,20600]:[tlq_tc_tran.c:991]:[1000, -1]:no space in the queue
+E:[1017 15:32:44.632]:[22068,30980]:[tlq_tc_tran.c:554]:[54, 10061]:trans_connect: connect failed [192.168.3.222] [10261]
+E:[1017 15:32:44.657]:[22068,30980]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(192.168.3.222,10261)
+E:[1017 15:32:48.878]:[22068,30980]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1017 15:32:52.934]:[22068,30980]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1017 15:32:56.991]:[22068,30980]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1017 15:33:01.050]:[22068,30980]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1017 15:33:05.110]:[22068,30980]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1017 15:33:09.188]:[22068,30980]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1017 15:35:43.406]:[25008,8140]:[tlq_tc_tran.c:554]:[54, 10061]:trans_connect: connect failed [192.168.3.195] [10261]
+E:[1017 15:35:43.407]:[25008,8140]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(192.168.3.195,10261)
+E:[1017 15:50:23.612]:[23048,2328]:[tlq_tc_tran.c:2254]:[59, 10053]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=-3,ReplyTmout=20,pTrans->socket=2264
+E:[1017 15:50:23.613]:[23048,2328]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=2264
+E:[1017 15:50:23.614]:[23048,2328]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=2264
+E:[1017 15:50:23.614]:[23048,2328]:[tlq_tc_tran.c:1016]:[1000, -1]:tlq_putmsg: some system error occured while receiving reply packet from agent,pTrans->socket=-1 result = -1
+E:[1017 15:52:09.688]:[23048,2328]:[tlq_tc_tran.c:2254]:[59, 10053]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=-3,ReplyTmout=20,pTrans->socket=1392
+E:[1017 15:52:09.689]:[23048,2328]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=1392
+E:[1017 15:52:09.690]:[23048,2328]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=1392
+E:[1017 15:52:09.690]:[23048,2328]:[tlq_tc_tran.c:1016]:[1000, -1]:tlq_putmsg: some system error occured while receiving reply packet from agent,pTrans->socket=-1 result = -1
+E:[1017 16:03:49.124]:[19436,26900]:[tlq_tc_tran.c:2254]:[59, 10053]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=-3,ReplyTmout=20,pTrans->socket=1816
+E:[1017 16:03:49.125]:[19436,26900]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=1816
+E:[1017 16:03:49.125]:[19436,26900]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=1816
+E:[1017 16:03:49.126]:[19436,26900]:[tlq_tc_tran.c:1016]:[1000, -1]:tlq_putmsg: some system error occured while receiving reply packet from agent,pTrans->socket=-1 result = -1
+E:[1017 16:07:53.448]:[18736,20416]:[tlq_tc_tran.c:554]:[54, 10061]:trans_connect: connect failed [192.168.3.195] [10261]
+E:[1017 16:07:53.448]:[18736,20416]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(192.168.3.195,10261)
+E:[1017 16:16:40.335]:[11712,23724]:[tlq_tc_tran.c:2254]:[59, 10053]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=-3,ReplyTmout=20,pTrans->socket=1820
+E:[1017 16:16:40.336]:[11712,23724]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=1820
+E:[1017 16:16:40.336]:[11712,23724]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=1820
+E:[1017 16:16:40.336]:[11712,23724]:[tlq_tc_tran.c:1016]:[1000, -1]:tlq_putmsg: some system error occured while receiving reply packet from agent,pTrans->socket=-1 result = -1
+E:[1017 16:20:55.595]:[11712,23724]:[tlq_tc_tran.c:2254]:[59, 10053]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=-3,ReplyTmout=20,pTrans->socket=1344
+E:[1017 16:20:55.595]:[11712,23724]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=1344
+E:[1017 16:20:55.596]:[11712,23724]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=1344
+E:[1017 16:20:55.596]:[11712,23724]:[tlq_tc_tran.c:1016]:[1000, -1]:tlq_putmsg: some system error occured while receiving reply packet from agent,pTrans->socket=-1 result = -1
+E:[1017 17:07:14.686]:[22244,30384]:[tlq_tc_tran.c:2254]:[59, 10053]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=-3,ReplyTmout=20,pTrans->socket=1840
+E:[1017 17:07:14.687]:[22244,30384]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=1840
+E:[1017 17:07:14.687]:[22244,30384]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=1840
+E:[1017 17:07:14.687]:[22244,30384]:[tlq_tc_tran.c:1016]:[1000, -1]:tlq_putmsg: some system error occured while receiving reply packet from agent,pTrans->socket=-1 result = -1
+E:[1017 17:08:14.083]:[22244,30384]:[tlq_tc_tran.c:2254]:[59, 10053]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=-3,ReplyTmout=20,pTrans->socket=1848
+E:[1017 17:08:14.084]:[22244,30384]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=1848
+E:[1017 17:08:14.084]:[22244,30384]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=1848
+E:[1017 17:08:14.084]:[22244,30384]:[tlq_tc_tran.c:1016]:[1000, -1]:tlq_putmsg: some system error occured while receiving reply packet from agent,pTrans->socket=-1 result = -1
+E:[1017 17:13:48.258]:[29344,31512]:[tlq_tc_tran.c:2254]:[59, 10053]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=-3,ReplyTmout=20,pTrans->socket=1792
+E:[1017 17:13:48.259]:[29344,31512]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=1792
+E:[1017 17:13:48.259]:[29344,31512]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=1792
+E:[1017 17:13:48.260]:[29344,31512]:[tlq_tc_tran.c:1016]:[1000, -1]:tlq_putmsg: some system error occured while receiving reply packet from agent,pTrans->socket=-1 result = -1
+E:[1017 17:14:30.433]:[29344,31512]:[tlq_tc_tran.c:2254]:[59, 10053]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=-3,ReplyTmout=20,pTrans->socket=1792
+E:[1017 17:14:30.434]:[29344,31512]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=1792
+E:[1017 17:14:30.435]:[29344,31512]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=1792
+E:[1017 17:14:30.435]:[29344,31512]:[tlq_tc_tran.c:1016]:[1000, -1]:tlq_putmsg: some system error occured while receiving reply packet from agent,pTrans->socket=-1 result = -1
+E:[1018 10:26:51.334]:[22556,24660]:[tlq_tc_tran.c:2254]:[59, 10053]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=-3,ReplyTmout=20,pTrans->socket=1828
+E:[1018 10:26:51.335]:[22556,24660]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=1828
+E:[1018 10:26:51.336]:[22556,24660]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=1828
+E:[1018 10:26:51.336]:[22556,24660]:[tlq_tc_tran.c:1016]:[1000, -1]:tlq_putmsg: some system error occured while receiving reply packet from agent,pTrans->socket=-1 result = -1
+E:[1018 10:28:48.463]:[22556,24660]:[tlq_tc_tran.c:2254]:[59, 10053]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=-3,ReplyTmout=20,pTrans->socket=1364
+E:[1018 10:28:48.464]:[22556,24660]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=1364
+E:[1018 10:28:48.464]:[22556,24660]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=1364
+E:[1018 10:28:48.465]:[22556,24660]:[tlq_tc_tran.c:1016]:[1000, -1]:tlq_putmsg: some system error occured while receiving reply packet from agent,pTrans->socket=-1 result = -1
+E:[1018 10:28:52.468]:[22556,24660]:[tlq_tc_tran.c:554]:[54, 10061]:trans_connect: connect failed [192.168.3.222] [10261]
+E:[1018 10:28:52.469]:[22556,24660]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(192.168.3.222,10261)
+E:[1018 10:28:56.566]:[22556,24660]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:29:00.615]:[22556,24660]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:29:04.667]:[22556,24660]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:29:08.714]:[22556,24660]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:29:12.760]:[22556,24660]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:29:16.818]:[22556,24660]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:29:20.864]:[22556,24660]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:29:24.941]:[22556,24660]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:29:28.991]:[22556,24660]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:31:13.578]:[31264,19376]:[tlq_tc_tran.c:2254]:[59, 10053]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=-3,ReplyTmout=20,pTrans->socket=1856
+E:[1018 10:31:13.578]:[31264,19376]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=1856
+E:[1018 10:31:13.579]:[31264,19376]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=1856
+E:[1018 10:31:13.579]:[31264,19376]:[tlq_tc_tran.c:1016]:[1000, -1]:tlq_putmsg: some system error occured while receiving reply packet from agent,pTrans->socket=-1 result = -1
+E:[1018 10:31:44.528]:[31264,19376]:[tlq_tc_tran.c:2254]:[59, 10053]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=-3,ReplyTmout=20,pTrans->socket=1536
+E:[1018 10:31:44.529]:[31264,19376]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=1536
+E:[1018 10:31:44.529]:[31264,19376]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=1536
+E:[1018 10:31:44.530]:[31264,19376]:[tlq_tc_tran.c:1016]:[1000, -1]:tlq_putmsg: some system error occured while receiving reply packet from agent,pTrans->socket=-1 result = -1
+E:[1018 10:31:48.533]:[31264,19376]:[tlq_tc_tran.c:554]:[54, 10061]:trans_connect: connect failed [192.168.3.222] [10261]
+E:[1018 10:31:48.533]:[31264,19376]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(192.168.3.222,10261)
+E:[1018 10:31:52.619]:[31264,19376]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:31:56.681]:[31264,19376]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:32:00.729]:[31264,19376]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:32:04.781]:[31264,19376]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:32:08.831]:[31264,19376]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:32:12.884]:[31264,19376]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:32:16.941]:[31264,19376]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:32:21.055]:[31264,19376]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:32:25.117]:[31264,19376]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:32:29.166]:[31264,19376]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:32:33.212]:[31264,19376]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:32:37.266]:[31264,19376]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:32:41.311]:[31264,19376]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:32:45.360]:[31264,19376]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:33:34.523]:[2328,24372]:[tlq_tc_tran.c:2254]:[59, 10053]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=-3,ReplyTmout=20,pTrans->socket=1796
+E:[1018 10:33:34.524]:[2328,24372]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=1796
+E:[1018 10:33:34.525]:[2328,24372]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=1796
+E:[1018 10:33:34.525]:[2328,24372]:[tlq_tc_tran.c:1016]:[1000, -1]:tlq_putmsg: some system error occured while receiving reply packet from agent,pTrans->socket=-1 result = -1
+E:[1018 10:33:38.530]:[2328,24372]:[tlq_tc_tran.c:554]:[54, 10061]:trans_connect: connect failed [192.168.3.222] [10261]
+E:[1018 10:33:38.531]:[2328,24372]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(192.168.3.222,10261)
+E:[1018 10:33:42.613]:[2328,24372]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:33:46.664]:[2328,24372]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:33:50.714]:[2328,24372]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:33:54.785]:[2328,24372]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:33:58.833]:[2328,24372]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:34:02.895]:[2328,24372]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:34:06.945]:[2328,24372]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:34:10.995]:[2328,24372]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:34:15.063]:[2328,24372]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:34:19.111]:[2328,24372]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:44:09.718]:[9544,30120]:[tlq_tc_tran.c:2254]:[59, 10053]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=-3,ReplyTmout=20,pTrans->socket=1780
+E:[1018 10:44:09.719]:[9544,30120]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=1780
+E:[1018 10:44:09.719]:[9544,30120]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=1780
+E:[1018 10:44:09.720]:[9544,30120]:[tlq_tc_tran.c:1016]:[1000, -1]:tlq_putmsg: some system error occured while receiving reply packet from agent,pTrans->socket=-1 result = -1
+E:[1018 10:44:56.098]:[9544,30120]:[tlq_tc_tran.c:2254]:[59, 10053]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=-3,ReplyTmout=20,pTrans->socket=1780
+E:[1018 10:44:56.099]:[9544,30120]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=1780
+E:[1018 10:44:56.099]:[9544,30120]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=1780
+E:[1018 10:44:56.099]:[9544,30120]:[tlq_tc_tran.c:1016]:[1000, -1]:tlq_putmsg: some system error occured while receiving reply packet from agent,pTrans->socket=-1 result = -1
+E:[1018 10:45:00.102]:[9544,30120]:[tlq_tc_tran.c:554]:[54, 10061]:trans_connect: connect failed [192.168.3.222] [10261]
+E:[1018 10:45:00.103]:[9544,30120]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(192.168.3.222,10261)
+E:[1018 10:45:04.188]:[9544,30120]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:45:08.255]:[9544,30120]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:45:12.304]:[9544,30120]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:45:16.354]:[9544,30120]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:45:20.405]:[9544,30120]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:45:24.455]:[9544,30120]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:45:28.503]:[9544,30120]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:45:32.557]:[9544,30120]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:45:36.618]:[9544,30120]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:45:40.672]:[9544,30120]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:45:44.724]:[9544,30120]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:45:48.773]:[9544,30120]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:45:52.822]:[9544,30120]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:45:56.873]:[9544,30120]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:46:00.926]:[9544,30120]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 10:46:04.976]:[9544,30120]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:11:36.485]:[29172,31116]:[tlq_tc_tran.c:554]:[54, 10061]:trans_connect: connect failed [192.168.3.222] [10261]
+E:[1018 11:11:36.486]:[29172,31116]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(192.168.3.222,10261)
+E:[1018 11:11:40.581]:[29172,31116]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:15:32.927]:[28420,10908]:[tlq_tc_tran.c:2254]:[59, 10053]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=-3,ReplyTmout=20,pTrans->socket=1792
+E:[1018 11:15:32.928]:[28420,10908]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=1792
+E:[1018 11:15:32.928]:[28420,10908]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=1792
+E:[1018 11:15:32.929]:[28420,10908]:[tlq_tc_tran.c:1016]:[1000, -1]:tlq_putmsg: some system error occured while receiving reply packet from agent,pTrans->socket=-1 result = -1
+E:[1018 11:43:53.406]:[32376,12656]:[tlq_tc_tran.c:2254]:[59, 10053]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=-3,ReplyTmout=20,pTrans->socket=1168
+E:[1018 11:43:53.407]:[32376,12656]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=1168
+E:[1018 11:43:53.407]:[32376,12656]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=1168
+E:[1018 11:43:53.408]:[32376,12656]:[tlq_tc_tran.c:1016]:[1000, -1]:tlq_putmsg: some system error occured while receiving reply packet from agent,pTrans->socket=-1 result = -1
+E:[1018 11:44:35.377]:[32376,12656]:[tlq_tc_tran.c:2254]:[59, 10053]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=-3,ReplyTmout=20,pTrans->socket=1384
+E:[1018 11:44:35.378]:[32376,12656]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=1384
+E:[1018 11:44:35.379]:[32376,12656]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=1384
+E:[1018 11:44:35.379]:[32376,12656]:[tlq_tc_tran.c:1016]:[1000, -1]:tlq_putmsg: some system error occured while receiving reply packet from agent,pTrans->socket=-1 result = -1
+E:[1018 11:44:39.382]:[32376,12656]:[tlq_tc_tran.c:554]:[54, 10061]:trans_connect: connect failed [192.168.3.222] [10261]
+E:[1018 11:44:39.383]:[32376,12656]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(192.168.3.222,10261)
+E:[1018 11:44:43.473]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:44:47.555]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:44:51.619]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:44:55.667]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:44:59.721]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:45:03.769]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:45:07.822]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:45:11.888]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:45:15.951]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:45:20.005]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:45:24.055]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:45:28.104]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:45:32.155]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:45:36.205]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:45:40.255]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:45:44.305]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:45:48.371]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:45:52.418]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:45:56.464]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:46:00.519]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:46:04.567]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:46:08.617]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:46:12.699]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:46:16.759]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:46:20.807]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:46:24.858]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:46:28.906]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:46:32.956]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:46:37.011]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:46:41.064]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:46:45.128]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:46:49.181]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:46:53.250]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:46:57.318]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:47:01.378]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:47:05.440]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:47:09.497]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:47:13.552]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:47:17.665]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:47:21.725]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:47:25.783]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:47:29.835]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:47:33.894]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:47:37.955]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:47:42.023]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:47:46.121]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:47:50.175]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:47:54.236]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:47:58.309]:[32376,12656]:[tlq_tc_help.c:298]:[1002, -1]:tlq_closeqcu: hasn't successfully login(Trans is null)
+E:[1018 11:49:40.324]:[20124,24660]:[tlq_tc_tran.c:2254]:[59, 10053]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=-3,ReplyTmout=20,pTrans->socket=1792
+E:[1018 11:49:40.325]:[20124,24660]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=1792
+E:[1018 11:49:40.326]:[20124,24660]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=1792
+E:[1018 11:49:40.326]:[20124,24660]:[tlq_tc_tran.c:1016]:[1000, -1]:tlq_putmsg: some system error occured while receiving reply packet from agent,pTrans->socket=-1 result = -1
+E:[1018 11:55:35.867]:[20124,24660]:[tlq_tc_tran.c:2254]:[59, 10053]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=-3,ReplyTmout=20,pTrans->socket=1860
+E:[1018 11:55:35.868]:[20124,24660]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=1860
+E:[1018 11:55:35.868]:[20124,24660]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=1860
+E:[1018 11:55:35.869]:[20124,24660]:[tlq_tc_tran.c:1016]:[1000, -1]:tlq_putmsg: some system error occured while receiving reply packet from agent,pTrans->socket=-1 result = -1
+E:[1018 11:56:58.582]:[3500,28020]:[tlq_tc_tran.c:554]:[54, 10061]:trans_connect: connect failed [192.168.3.195] [10261]
+E:[1018 11:56:58.583]:[3500,28020]:[tlq_tc_help.c:219]:[1002, 0]:tlq_connect: cannot connect to agent(192.168.3.195,10261)
+E:[1023 11:01:01.276]:[24532,25084]:[tlq_tc_tran.c:2254]:[59, 10053]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=-3,ReplyTmout=20,pTrans->socket=1760
+E:[1023 11:01:01.306]:[24532,25084]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=1760
+E:[1023 11:01:01.307]:[24532,25084]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=1760
+E:[1023 11:01:01.329]:[24532,25084]:[tlq_tc_tran.c:1016]:[1000, -1]:tlq_putmsg: some system error occured while receiving reply packet from agent,pTrans->socket=-1 result = -1
+E:[1023 11:03:10.960]:[24532,25084]:[tlq_tc_tran.c:2254]:[59, 10053]:trans_recv_groupbegin:trans_recv_block:receive the block failed,BlockLen=35,receiveSize=-3,ReplyTmout=20,pTrans->socket=1760
+E:[1023 11:03:10.960]:[24532,25084]:[tlq_tc_tran.c:2259]:[1000, -1]:tlq_tc_api[trans_recv_groupbegin]: failed to receive packet, maybe network crashed,result=-1,pTrans->socket=1760
+E:[1023 11:03:10.961]:[24532,25084]:[tlq_tc_tran.c:73]:[1000, -1]:trans_close_socket:Because of network error,close socket,pTrans->socket=1760
+E:[1023 11:03:10.961]:[24532,25084]:[tlq_tc_tran.c:1016]:[1000, -1]:tlq_putmsg: some system error occured while receiving reply packet from agent,pTrans->socket=-1 result = -1

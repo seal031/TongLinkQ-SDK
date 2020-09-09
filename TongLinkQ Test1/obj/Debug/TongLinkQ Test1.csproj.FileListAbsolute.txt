@@ -1,0 +1,30 @@
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\TongLinkQ Test1\bin\Debug\TongLinkQ Test1.exe.config
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\TongLinkQ Test1\bin\Debug\TongLinkQ Test1.exe
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\TongLinkQ Test1\bin\Debug\TongLinkQ Test1.pdb
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\TongLinkQ Test1\bin\Debug\TongLinkQ SDK.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\TongLinkQ Test1\bin\Debug\tl_tcapicsharp.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\TongLinkQ Test1\bin\Debug\Newtonsoft.Json.dll
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\TongLinkQ Test1\bin\Debug\TongLinkQ SDK.pdb
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\TongLinkQ Test1\bin\Debug\Newtonsoft.Json.pdb
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\TongLinkQ Test1\bin\Debug\Newtonsoft.Json.xml
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\TongLinkQ Test1\obj\Debug\TongLinkQ Test1.csprojResolveAssemblyReference.cache
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\TongLinkQ Test1\obj\Debug\TongLinkQ_Test1.Form1.resources
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\TongLinkQ Test1\obj\Debug\TongLinkQ_Test1.Properties.Resources.resources
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\TongLinkQ Test1\obj\Debug\TongLinkQ Test1.csproj.GenerateResource.Cache
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\TongLinkQ Test1\obj\Debug\TongLinkQ Test1.exe
+E:\Users\Administrator\Documents\Visual Studio 2015\Projects\TongLinkQ SDK\TongLinkQ Test1\obj\Debug\TongLinkQ Test1.pdb
+E:\GitHubProject\TongLinkQ SDK\TongLinkQ Test1\bin\Debug\TongLinkQ Test1.exe.config
+E:\GitHubProject\TongLinkQ SDK\TongLinkQ Test1\bin\Debug\TongLinkQ Test1.exe
+E:\GitHubProject\TongLinkQ SDK\TongLinkQ Test1\bin\Debug\TongLinkQ Test1.pdb
+E:\GitHubProject\TongLinkQ SDK\TongLinkQ Test1\bin\Debug\TongLinkQ SDK.dll
+E:\GitHubProject\TongLinkQ SDK\TongLinkQ Test1\bin\Debug\tl_tcapicsharp.dll
+E:\GitHubProject\TongLinkQ SDK\TongLinkQ Test1\bin\Debug\Newtonsoft.Json.dll
+E:\GitHubProject\TongLinkQ SDK\TongLinkQ Test1\bin\Debug\TongLinkQ SDK.pdb
+E:\GitHubProject\TongLinkQ SDK\TongLinkQ Test1\bin\Debug\Newtonsoft.Json.pdb
+E:\GitHubProject\TongLinkQ SDK\TongLinkQ Test1\bin\Debug\Newtonsoft.Json.xml
+E:\GitHubProject\TongLinkQ SDK\TongLinkQ Test1\obj\Debug\TongLinkQ Test1.csprojResolveAssemblyReference.cache
+E:\GitHubProject\TongLinkQ SDK\TongLinkQ Test1\obj\Debug\TongLinkQ_Test1.Form1.resources
+E:\GitHubProject\TongLinkQ SDK\TongLinkQ Test1\obj\Debug\TongLinkQ_Test1.Properties.Resources.resources
+E:\GitHubProject\TongLinkQ SDK\TongLinkQ Test1\obj\Debug\TongLinkQ Test1.csproj.GenerateResource.Cache
+E:\GitHubProject\TongLinkQ SDK\TongLinkQ Test1\obj\Debug\TongLinkQ Test1.exe
+E:\GitHubProject\TongLinkQ SDK\TongLinkQ Test1\obj\Debug\TongLinkQ Test1.pdb
