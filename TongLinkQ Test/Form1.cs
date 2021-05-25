@@ -21,7 +21,7 @@ namespace TongLinkQ_Test
         private void Form1_Load(object sender, EventArgs e)
         {
             // 创建客户端
-            TlqGetMsgApi getClient = TlqClientFactory.createGetMsgClient();
+            TlqGetMsgApi getClient = TlqClientFactory.createGetMsgClient(); 
             // 初始化客户端
             var initFlag = getClient.initClient("TlqSdkConfig.xml");
             // 登录
