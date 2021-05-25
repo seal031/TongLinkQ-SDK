@@ -17,6 +17,5 @@ E:\GitHubProject\TongLinkQ SDK\TongLinkQ SDK\bin\x86\Debug\TongLinkQ SDK.pdb
 E:\GitHubProject\TongLinkQ SDK\TongLinkQ SDK\bin\x86\Debug\Newtonsoft.Json.dll
 E:\GitHubProject\TongLinkQ SDK\TongLinkQ SDK\bin\x86\Debug\Newtonsoft.Json.pdb
 E:\GitHubProject\TongLinkQ SDK\TongLinkQ SDK\bin\x86\Debug\Newtonsoft.Json.xml
-E:\GitHubProject\TongLinkQ SDK\TongLinkQ SDK\obj\Debug\TongLinkQ SDK.csprojResolveAssemblyReference.cache
 E:\GitHubProject\TongLinkQ SDK\TongLinkQ SDK\obj\Debug\TongLinkQ SDK.dll
 E:\GitHubProject\TongLinkQ SDK\TongLinkQ SDK\obj\Debug\TongLinkQ SDK.pdb

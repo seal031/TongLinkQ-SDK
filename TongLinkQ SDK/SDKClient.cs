@@ -34,6 +34,7 @@ namespace TongLinkQ_SDK
         private const int ERR_PROC_RETURN = 0;
         private const int ERR_PROC_RECONN = 1;
         private const int ERR_PROC_RETRY = 2;
+        public Encoding encoding = Encoding.UTF8;
         public SDKClient(string host, int port, string qcuName, string topicName, string queueName, string rcvQueName, int pWaitInterval)
         {
             this.host = host;
@@ -128,9 +129,9 @@ namespace TongLinkQ_SDK
             tLQMSG_INFO.Priority = 4;
             tLQMSG_INFO.Expiry = -1;
             tLQMSG_OPT.QueName = this.queueName;
-            byte[] bytes = Encoding.Default.GetBytes(message);
-            string @string = Encoding.Default.GetString(bytes);
-            tLQMSG_INFO.MsgSize = Encoding.Default.GetByteCount(@string);
+            byte[] bytes = encoding.GetBytes(message);
+            string @string = encoding.GetString(bytes);
+            tLQMSG_INFO.MsgSize = encoding.GetByteCount(@string);
             while (true)
             {
                 int num2 = TLQInterface.Tlq_PutMsg(ref this.gid, ref this.qcuId, ref tLQMSG_INFO, ref tLQMSG_OPT, (IntPtr)0, bytes, ref tLQError);
@@ -209,7 +210,7 @@ namespace TongLinkQ_SDK
             bool flag5 = array != null;
             if (flag5)
             {
-                result = Encoding.Default.GetString(array);
+                result = encoding.GetString(array);
             }
             return result;
         }
@@ -219,7 +220,7 @@ namespace TongLinkQ_SDK
             TLQMSG_INFO tLQMSG_INFO = default(TLQMSG_INFO);
             TLQMSG_OPT tLQMSG_OPT = default(TLQMSG_OPT);
             TLQError tLQError = default(TLQError);
-            byte[] bytes = Encoding.Default.GetBytes(message);
+            byte[] bytes = encoding.GetBytes(message);
             bool flag = this.cancelpubFlag == 0;
             if (flag)
             {
@@ -341,7 +342,7 @@ namespace TongLinkQ_SDK
                 }
                 continue;
             IL_FA:
-                string @string = Encoding.Default.GetString(bytes);
+                string @string = encoding.GetString(bytes);
                 messageListener.receiveData(@string);
             }
         Block_2:
